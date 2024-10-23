@@ -22,4 +22,4 @@
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Jai Prakash Srivastava - feel free to contact me!
